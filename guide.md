@@ -27,7 +27,7 @@ Controls
 * When on a "non-VR only" \(e.g. Magic Leap\) form of entering Exokit, you will not be immediatly loaded into VR. Go ahead and hit enter VR with F1, enter VR on a Magic Leap with F2.
 *  For Menu Access \(the homepage URL bar and keyboard\), "E" opens menu if using a keyboard, with a HTC Vive, accessing the menu comes by hitting the button ABOVE the thumb trackpad.
 
-### Examples
+## Examples
 
 Let's open a ThreeJS website in Exokit.
 
@@ -53,7 +53,7 @@ These ThreeJS examples will run in Exokit, so lets get into it. Let's try the fi
 
 ![](.gitbook/assets/exokit3.PNG)
 
-#### Exokit's Command Prompt
+## Exokit's Command Prompt
 
 The Exokit command prompt is a NodeJS REPL. If you're a node developer, the interface should be quite familiar. Open Exokit Command Prompt and run the command, .help :
 

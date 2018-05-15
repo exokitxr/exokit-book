@@ -8,7 +8,9 @@
 * `cd LabSound/labsound`
 * Run the os-specific build script
   * On Windows, this is `build-windows.cmd`
-* Copy LabSound.lib to ...
+  * On Windows, use the Visual C++ 2015 MSBuild Command Prompt. \(This was installed along with [windows-build-tools](https://www.npmjs.com/package/windows-build-tools).\)
+
+![](.gitbook/assets/image.png)
 
 
 

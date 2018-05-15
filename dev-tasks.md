@@ -1,6 +1,6 @@
 # Dev Tasks
 
-## How do I build LabSound?
+## How do I test local changes to the Exokit audio subsystem?
 
 * clone [https://github.com/webmixedreality/exokit](https://github.com/webmixedreality/exokit)
   * `cd exokit && yarn && cd ..`
